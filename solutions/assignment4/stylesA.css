@@ -1,0 +1,32 @@
+*{
+    font-family: Helvatica;
+}
+
+div {
+    display: flex;
+    flex-wrap: wrap;
+}
+table{
+    margin-left:20px;
+	margin-right:20px;	
+	margin-bottom:20px;
+}
+table, td{
+    border:1px solid #D75A60;
+    border-collapse: collapse;
+}
+
+.row {
+  margin-left:-5px;
+  margin-right:-5px;
+}
+.column {
+  text-align:center;
+  padding: 10px;
+}
+.name{
+    width: 200px;
+}
+.value{
+    width: 400px;
+}
